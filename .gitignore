@@ -4,6 +4,7 @@ node_modules
 .pnp.js
 
 # production
+public
 
 # misc
 .DS_Store
